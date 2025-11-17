@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55705580952",
+    "project_id": "detecto-de-humedad",
+    "storage_bucket": "detecto-de-humedad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55705580952:android:47ae0d20cf8670d421a7ed",
+        "android_client_info": {
+          "package_name": "com.example.detectordehumedad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKZEFpjlmDS-RSJwBa1z1Q7mVr8Qc5FTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
